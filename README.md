@@ -1,2 +1,2 @@
 # GB-UMAP
-This code and data is for "A General Clustering Framework via Granular-ball-based Adaptive UMAP"
+This code and data is for fast and adpative UMAP based on granular-ball computing
